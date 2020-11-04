@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="leetcode-practice-0004" />
+        <module name="leetcode-practice-0003" />
+        <module name="leetcode-practice-0002" />
+        <module name="leetcode-practice-0001" />
+        <module name="leetcode-practice-0010" />
+        <module name="leetcode-practice-0009" />
+        <module name="leetcode-practice-0008" />
+        <module name="leetcode-practice-0007" />
+        <module name="leetcode-practice-0006" />
+        <module name="leetcode-practice-0005" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
