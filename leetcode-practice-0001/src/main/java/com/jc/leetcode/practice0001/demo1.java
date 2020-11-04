@@ -12,8 +12,27 @@ package com.jc.leetcode.practice0001;
 
 public class demo1 {
 
-    public static void main(String[] args) {
+    public static int[] twoSum(int[] nums, int target){
+//        int[] tmp = null;
+        int [] tmp = new int[2];
+        for (int i = 0; i<nums.length; i++)
+            for (int j = i+1; j< nums.length; j++)
+                if (target - nums[i] == nums[j]) {
+                    tmp[0] = i;
+                    tmp[1] = j;
+                }
+        return tmp;
 
+
+    }
+
+    public static void main(String[] args) {
+        int[] array = {2, 7, 11, 15};
+        int[] res = null;
+
+        res = twoSum(array,26);
+        for (int a = 0; a< res.length; a++)
+            System.out.println(res[a]);
     }
 
 }
