@@ -11,6 +11,8 @@
         <module name="leetcode-practice-0002" />
         <module name="leetcode-practice-0001" />
         <module name="leetcode-practice-0010" />
+        <module name="leetcode-string" />
+        <module name="leetcode-array" />
         <module name="leetcode-practice-0009" />
         <module name="leetcode-practice-0008" />
         <module name="leetcode-practice-0007" />

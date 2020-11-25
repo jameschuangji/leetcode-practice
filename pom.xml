@@ -11,14 +11,11 @@
     <modules>
         <module>leetcode-practice-0001</module>
         <module>leetcode-practice-0002</module>
-        <module>leetcode-practice-0003</module>
         <module>leetcode-practice-0004</module>
-        <module>leetcode-practice-0005</module>
-        <module>leetcode-practice-0010</module>
-        <module>leetcode-practice-0006</module>
         <module>leetcode-practice-0007</module>
-        <module>leetcode-practice-0008</module>
         <module>leetcode-practice-0009</module>
+        <module>leetcode-array</module>
+        <module>leetcode-string</module>
     </modules>
 
 
